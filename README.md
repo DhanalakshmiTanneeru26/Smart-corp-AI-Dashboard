@@ -95,7 +95,7 @@ Crop-Project/
 │   ├── result.html
 │   ├── settings.html
 │   ├── login.html
-│  ├── register.html
+│   ├── register.html
 │   └── forgot_password.html
 │  
 │
